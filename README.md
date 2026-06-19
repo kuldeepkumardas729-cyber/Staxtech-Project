@@ -35,7 +35,7 @@ Technologies Used
 
 Python
 Tkinter
-🎯 Skills Gained
+ Skills Gained
 Python Programming
 GUI Development with Tkinter
 Event-Driven Programming
@@ -43,7 +43,7 @@ Problem Solving
 Input Validation & Error Handling
 User Interface Design
 Software Development Fundamentals
-🏆 Internship
+ Internship
 
 Organization: StaxTech
 Role: Python Developer Intern
