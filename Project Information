@@ -1,0 +1,28 @@
+ Projects Included
+ To-Do List Application (GUI)
+
+Developed a desktop-based task management application using Python and Tkinter. The application helps users organize their daily activities through a simple and intuitive graphical interface.
+
+Features:
+
+Add new tasks
+Delete existing tasks
+Mark tasks as completed
+Clean and user-friendly interface
+Input validation and error handling
+
+Tech Stack: Python, Tkinter
+
+ Calculator (GUI)
+
+Built a GUI-based calculator using Python and Tkinter to perform basic arithmetic operations. The application provides a responsive interface with real-time expression evaluation for an improved user experience.
+
+Features:
+
+Addition, subtraction, multiplication, and division
+Functional buttons for numbers and operators
+Real-time input and output display
+Clear and reset functionality
+Clean layout designed using Tkinter Grid System
+
+Tech Stack: Python, Tkinter
